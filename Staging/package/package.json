@@ -1,25 +1,22 @@
 {
-  "name": "com.google.external-dependency-manager",
-  "version": "1.2.165",
-  "displayName": "External Dependency Manager for Unity",
+  "name": "com.google.firebase.firestore",
+  "version": "7.2.0",
+  "displayName": "Cloud Firestore",
   "keywords": [
     "Google",
-    "Android",
-    "Gradle",
-    "Cocoapods",
-    "Dependency",
-    "Unity Package Manager",
-    "Unity",
-    "vh-name:play-services-resolver",
-    "vh-name:unity-jar-resolver",
-    "vh-name:external-dependency-manager",
-    "vh-name:External Dependency Manager for Unity"
+    "Firebase",
+    "Firestore",
+    "Cloud",
+    "vh-name:FirebaseFirestore",
+    "vh-name:Cloud Firestore"
   ],
   "author": {
     "name": "Google LLC",
-    "url": "https://github.com/googlesamples/unity-jar-resolver"
+    "url": "https://firebase.google.com/docs/firestore"
   },
-  "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs), iOS CocoaPods, version management of transitive dependencies, and/or management of Unity Package Manager registries.",
+  "description": "Store and sync game data at global scale.\n\nCloud Firestore is a flexible NoSQL document database that lets you easily store, sync, and query data for your games - at global scale.\n\nFirestore supports a million players connected simultaneously with a guaranteed uptime of 5 nines for multi-region instances. That's less than 5 minutes of downtime a year!\n\nWith Cloud Firestore, your players can access and make changes to their data at any time, even when they're offline.",
   "unity": "2017.1",
-  "dependencies": {}
+  "dependencies": {
+    "com.google.firebase.app": "7.2.0"
+  }
 }
