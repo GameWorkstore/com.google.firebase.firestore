@@ -1,0 +1,13 @@
+Assets/Firebase/Editor/FirestoreDependencies.xml
+Assets/Firebase/Plugins/Firebase.Firestore.dll
+Assets/Firebase/Plugins/Firebase.Firestore.dll.mdb
+Assets/Firebase/Plugins/iOS/Firebase.Firestore.dll
+Assets/Firebase/Plugins/iOS/Firebase.Firestore.dll.mdb
+Assets/Firebase/Plugins/x86_64/FirebaseCppFirestore.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppFirestore.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppFirestore.so
+Assets/Firebase/m2repository/com/google/firebase/firebase-firestore-unity/7.2.0/firebase-firestore-unity-7.2.0.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-firestore-unity/7.2.0/firebase-firestore-unity-7.2.0.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-firestore-unity/maven-metadata.xml
+Assets/Plugins/iOS/Firebase/libFirebaseCppFirestore.a
+Assets/package.json
