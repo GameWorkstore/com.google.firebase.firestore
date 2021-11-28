@@ -2,7 +2,7 @@ fileFormatVersion: 2
 guid: a6c9f319b9da4b6b8846198e78151ce7
 labels:
 - gvh
-- gvh_version-8.4.0
+- gvh_version-8.6.2
 - gvhp_exportpath-Firebase/Plugins/Firebase.Firestore.dll.mdb
 timeCreated: 1480838400
 PluginImporter:
