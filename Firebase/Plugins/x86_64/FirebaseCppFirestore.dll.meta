@@ -2,7 +2,7 @@ fileFormatVersion: 2
 guid: f07768654ca046879bf8e2e0b8b3efec
 labels:
 - gvh
-- gvh_version-9.6.0
+- gvh_version-10.0.1
 - gvhp_exportpath-Firebase/Plugins/x86_64/FirebaseCppFirestore.dll
 timeCreated: 1480838400
 PluginImporter:
@@ -67,6 +67,11 @@ PluginImporter:
       settings:
         CPU: AnyCPU
     iOS:
+      enabled: 0
+      settings:
+        CompileFlags:
+        FrameworkDependencies:
+    tvOS:
       enabled: 0
       settings:
         CompileFlags:
