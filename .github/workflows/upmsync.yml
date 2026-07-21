@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       base: https://dl.google.com/games/registry/unity/com.google.firebase.firestore/com.google.firebase.firestore
-      version: 13.10.0
+      version: 13.11.0
     steps:
       - uses: actions/checkout@v2
       - name: Config
@@ -26,7 +26,7 @@ jobs:
           tar -xvzf content.tgz
           rm content.tgz
           ls
-          git add --a
+          git add --all
           git commit -m "Package Update ${{ env.version }}"
           git push origin
 
