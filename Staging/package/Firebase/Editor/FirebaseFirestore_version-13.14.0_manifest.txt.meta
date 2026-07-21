@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dffe128b4c7547ae9eabba6cdda69c3d
+labels:
+- gvh
+- gvh_manifest
+- gvh_version-13.14.0
+- gvhp_exportpath-Firebase/Editor/FirebaseFirestore_version-13.14.0_manifest.txt
+- gvhp_manifestname-0Cloud Firestore
+- gvhp_manifestname-1FirebaseFirestore
+timeCreated: 0
